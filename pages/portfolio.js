@@ -1,8 +1,8 @@
 import Head from 'next/head';
 
-import styles from '../styles/custom.css';
-import styles from '../styles/ress.css';
-import styles from '../styles/style.css';
+import '../styles/custom.css';
+import '../styles/ress.css';
+import '../styles/style.css';
 
 export default function portfolio() {
     return (
